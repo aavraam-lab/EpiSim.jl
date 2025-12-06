@@ -1,0 +1,3 @@
+  Activating project at `~/Thesis_git/EpiSim.jl`
+unrecognized option -e
+usage: run.jl {run|setup|init}
