@@ -505,6 +505,6 @@ def agent_flow_example():
     logger.info("Example done")
 
 
-if __name__ == "__main__":
-    # agent_flow_example()
-    run_model_example()
+# if __name__ == "__main__":
+#     # agent_flow_example()
+#     run_model_example()
